@@ -1,0 +1,13 @@
+Instruções para utilizar o meu software desenvolvido na Atividade Prática 1 da disciplina Estrutura de Dados.
+
+Aluno: Douglas Mateus Soares Cândido da Silva
+Matrícula: 20190020243  
+
+O arquivo algorithms.cpp contém as implementações dos três algorítmos de ordenação. Para utilizar o código, basta compila-lo com um compilador 
+de C++ como o GCC (g++) ou o MinGW, podendo usar uma IDE para tal coisa, e então executa-lo. Inicialmente o software vai perguntar
+qual o tamanho do array (Quantas posições a lista possui) e depois vai gerar números aleatórios para preencher suas posições, em seguida irá pedir 
+para escolher um dos algorítmos de ordenação para ordenar tal array. As opções são: 1 para Insertion Sort, 2 para Merge Sort e 3 para Quick Sort. 
+Em seguida, o programa irá exibir a ordenação do array em tempo real e calcular o tempo de execução que o algorítmo escolhido levou para ordenar o 
+array e então salvar esse tempo de execução em um arquivo texto contendo todas as medições de tempo de execução feitas para esse determinado 
+algorítmo.
+
